@@ -7,4 +7,9 @@ package com.tdu.mock.demo;
  * @version $: APIMa.java, v 0.1 2018年08月17日 下午12:07 tangdu Exp $
  */
 public class APIMa {
+
+    //b2我增加一个方法
+    public void mmmm(){
+
+    }
 }
